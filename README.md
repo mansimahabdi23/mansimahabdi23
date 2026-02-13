@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Mahabdi</h1>
 <h3 align="center">AI Product Builder | ML Intern | Full Stack Developer | Aspiring Product Manager</h3>
 
-I design, build, and ship intelligent features combining AI features, full-stack systems, and structured execution frameworks. 
-
 <h3>👩‍💻 Who I Am </h3>
 
 I’m an AI-focused builder with experience in Machine Learning and Full Stack development, currently contributing to ML-driven product features in a startup environment.
