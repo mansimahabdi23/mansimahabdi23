@@ -8,10 +8,18 @@
 
 <h4>🧠 What I Work On</h4>
 
-🔹 ML-based Product Domain Verification (Startup Project)
-🔹 VarnikaAI – Low-resource Indian Language AI Framework
-🔹 Full-stack applications integrated with ML features
+🔹 ML-based Product Domain Verification Feature (Startup Project)
+
+🔹 Exploring Agentic AI systems
+
+🔹 Studying Product Management
+
 🔹 Agile-driven execution systems for AI product delivery
+
+🔹 Full-stack applications integrated with AI features
+
+🔹 Front-End Development
+
 <!--
 **mansimahabdi23/mansimahabdi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
