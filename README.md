@@ -5,7 +5,7 @@
 
 I design, build, and ship intelligent features combining AI features, full-stack systems, and structured execution frameworks. 
 
-👩‍💻 Who I Am
+<h3>👩‍💻 Who I Am </h3>
 
 I’m an AI-focused builder with experience in Machine Learning and Full Stack development, currently contributing to ML-driven product features in a startup environment.
 
