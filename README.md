@@ -1,6 +1,7 @@
 ## 🚀 Building AI Products That Ship
 
 Hi, I’m Mansi 👋
+
 AI Product Builder | ML Intern | Full Stack Developer | Aspiring Product Manager
 
 I design, build, and ship intelligent features combining AI features, full-stack systems, and structured execution frameworks.
