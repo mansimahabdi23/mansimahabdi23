@@ -3,13 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mansi Mahabdi</h1>
 <h3 align="center">AI Product Builder | ML Intern | Full Stack Developer | Aspiring Product Manager</h3>
 
-<h3>👩‍💻 I design, build, and ship intelligent features combining AI features, full-stack systems, and structured execution frameworks.🌱</h3>
+👩‍💻 I design, build, and ship intelligent features combining AI features, full-stack systems, and structured execution frameworks.🌱
 
-I’m an AI-focused builder with experience in Machine Learning and Full Stack development, currently contributing to ML-driven product features in a startup environment.
-
-I’m particularly interested in designing execution systems that ensure intelligent features are not only built, but structured, measurable, and successfully shipped.
-
-My goal is to grow into AI Product Leadership, where technology, strategy, and impact come together.
 <!--
 **mansimahabdi23/mansimahabdi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
