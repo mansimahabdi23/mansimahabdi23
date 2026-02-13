@@ -25,6 +25,7 @@
 <a href="https://medium.com/@mansimahabdi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansimahabdi23" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
