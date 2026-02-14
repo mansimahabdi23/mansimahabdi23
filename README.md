@@ -29,6 +29,10 @@
 <a href="https://linkedin.com/in/mansi-mahabdi-218b832b7" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://stackoverflow.com/users/32361334/mansi-mahabdi" target="_blank">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
+</a>
+
 </div>  
 <!--
 **mansimahabdi23/mansimahabdi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
