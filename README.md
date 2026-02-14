@@ -32,6 +32,9 @@
 <a href="https://stackoverflow.com/users/32361334/mansi-mahabdi" target="_blank">
 <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>
+<a href="https://medium.com/@mansimahabdi23" target="_blank">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
+</a>
 
 </div>  
 <!--
