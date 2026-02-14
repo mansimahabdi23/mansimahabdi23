@@ -18,15 +18,6 @@
 
 🔹 Front-End Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mansi-mahabdi-218b832b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-mahabdi-218b832b7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mansi-mahabdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mansi-mahabdi" height="30" width="40" /></a>
-<a href="https://medium.com/@mansimahabdi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansimahabdi23" height="30" width="40" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/mansimahabdi23/mansimahabdi23/output/snake.svg" alt="Snake animation" />
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mansimahabdi23" target="_blank">
