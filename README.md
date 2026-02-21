@@ -18,6 +18,33 @@
 
 🔹 Front-End Development
 
+## 🛠 Tech Stack
+
+### 🤖 Machine Learning & AI
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-2E8B57?style=for-the-badge" />
+</p>
+
+### 🌐 Full Stack Development
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 📊 Product & Execution
+<p>
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kanban-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature%20Lifecycle-6A5ACD?style=for-the-badge" />
+</p>
+
 <h3 align="center">🌐Connect with me  </h3>
 <div align="center">
 <a href="https://github.com/mansimahabdi23" target="_blank">
