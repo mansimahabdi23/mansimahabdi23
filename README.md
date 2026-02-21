@@ -45,6 +45,14 @@
 <img src="https://img.shields.io/badge/Feature%20Lifecycle-6A5ACD?style=for-the-badge" />
 </p>
 
+## 🎯 What Drives Me..
+
+I’m interested in building AI systems that actually make it to production.
+
+- Not just training models, but deploying and testing them in real use cases  
+- Not just writing features, but organizing them properly for delivery  
+- Not just making things work, but making sure they can be measured and improved
+
 <h3 align="center">🌐Connect with me  </h3>
 <div align="center">
 <a href="https://github.com/mansimahabdi23" target="_blank">
